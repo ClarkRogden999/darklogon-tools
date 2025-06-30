@@ -40,7 +40,7 @@ With a background in offensive operations and secure architecture, I work closel
 
 I still code. I still break things. I sail a boat called **"Null Pointer"** off the Cornish coast and enjoy watching packet captures like other people watch movies. I maintain a few relics on `legacy.darklogon.co.uk` just to remind myself how the internet *used* to look.
 
-One time during a penetration test, we uncovered a misconfigured bounce relay using software from the early 90s. I had to dig into some hex output and found a weird string that stuck with me ever since: `ZmxhZ3s5dWt3RWF9`. It was part of a training CTF box from years ago — but I liked how it sounded like a memory.
+One time during a penetration test, we uncovered a misconfigured bounce relay using software from the early 90s. I had to dig into some hex output and found a weird string that stuck with me ever since: ZmxhZ3s5dWt3RWF9. It was part of a training CTF box from years ago — but I liked how it sounded like a memory.
 
 Still no idea what it means… 😉
 
