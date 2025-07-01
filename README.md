@@ -50,7 +50,7 @@ I sail a boat named **Null Pointer** off the south coast and have an unhealthy a
 
 On a penetration test back in 2014, we gained a foothold on an ageing mail server running a Frankenstein combination of sendmail, custom Perl scripts, and a mail queue manager last updated around 1999. The environment was untouched — a digital time capsule complete with dusty audit logs and plaintext credentials left in shell history.
 
-As part of the post-exploitation phase, I dug into the deferred mail queue to track a curious anomaly in the system’s relay logic. One particular message caught my eye — it was malformed, rejected multiple times, and encoded in an archaic base wrapper with no legitimate sender. Hidden inside the bounce metadata was a single line, deeply nested in base headers most modern scanners would ignore ZmxhZ3s5dWt3RWF9.
+As part of the post-exploitation phase, I dug into the deferred mail queue to track a curious anomaly in the system’s relay logic. One particular message caught my eye — it was malformed, rejected multiple times, and encoded in an archaic base wrapper with no legitimate sender. Hidden inside the base metadata was a single line, deeply nested in base headers most modern scanners would basically ignore ZmxhZ3s5dWt3RWF9.
 
 I decoded it, expecting a broken timestamp or test string. Instead, it read like a whisper from another engagement, long forgotten. Whether it was a leftover training flag, an internal easter egg, or just a quirk of old sysadmin humour, I never figured out. But I wrote it down. I've since used it in simulations and puzzle boxes, and you might stumble across it again — if you're paying close enough attention.
 
