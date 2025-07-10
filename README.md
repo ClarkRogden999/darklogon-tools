@@ -24,7 +24,7 @@ My academic background began with a standard cybersecurity BSc, but evolved sign
 
 It was at the University of Nottingham, around 2008, that my academic path shifted. Originally on track for a purely network-focused dissertation, I pivoted into malware design and simulation tooling — modelling attack lifecycles and response latency. What began as a few Python scripts led to a framework we still reference internally.
 
-That framework, in its broken and battered prototype form, lives somewhere at `legacy.darklogon.co.uk` — a small archival server we keep running for posterity, curiosity, and occasionally, for interns to marvel at how “awful” the old days were.
+That framework, in its broken and battered prototype form, lives somewhere at legacy.darklogon.co.uk — a small archival server we keep running for posterity, curiosity, and occasionally, for interns to marvel at how “awful” the old days were.
 
 If you know where to look, you'll even find the old `.conf` files that laid the groundwork for our internal **Argon** adversary suite.
 
